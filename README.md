@@ -1,11 +1,4 @@
-# unlayered-non-planar-printing
-Unlayered Non-Planar Printing
-
-# Journal Entries
-
-## 2026-10-07
-
-This is a journal entry
-
-## 2206-10-08
-
+Title: Unlayered
+Author: Maxim Fazzari
+Description: A non-planer printer that utilizes a corexy enclosed design and and long sharp nozzle to print diagonal layers instead of only flat.
+Created_at: "2026-10-09"
