@@ -14,3 +14,5 @@ Spent 10 minutes today working on the skeleton didn't have much other time to do
 
 
 **Total time spent: 10 min**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/a328b6c4f7eccba1df2bbb941ad6a74ea2857975/Screenshot%202026-10-09%20233807.png)
