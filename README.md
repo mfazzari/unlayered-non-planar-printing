@@ -26,4 +26,4 @@ Spent 2 hours today working on the connectors to connect the 2020 extrusions to 
 
 **Total time spent: 2 hours**
 
-
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/f9fd062e05f4ec2552d551e538880335b27e13a6/Images/Screenshot%202026-10-10%20175222.png)
