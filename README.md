@@ -20,10 +20,27 @@ Spent 10 minutes today working on the skeleton didn't have much other time to do
 
 # October 10: Created the skeleton connectors #
 
-Spent 2 hours today working on the connectors to connect the 2020 extrusions to each other. I used m3.5 screws and a nut under the rail to clamp the connector to each extrsuion. Had some major setback with desin issues like not being able to combine some of the different bodies but I got it all settled in the end. Accidently also forgot to lapse part of it so there might be a weird like from a little to a lot moment.
+Spent 2 hours today working on the connectors to connect the 2020 extrusions to each other. I used m3.5 screws and a nut under the rail to clamp the connector to each extrsuion. Had some major setback with desin issues like not being able to combine some of the different bodies but I got it all settled in the end. Accidently also forgot to lapse part of it so there might be a weird moment missing.
 
 
 
 **Total time spent: 2 hours**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/f9fd062e05f4ec2552d551e538880335b27e13a6/Images/Screenshot%202026-10-10%20175222.png)
+
+# October 11 to 12: Created the idle pullet mount and adjustable rod guide. #
+
+Spent 4 hours today working on the idle pulley mounts and guide rod mount. First tried to connect the whol mount to it's own mount but the Skeleton connector got in the way, so I decided to connect it directly to the skeletion mount. The guide rod is secrued with 4 Hex screws and is adjust able so the tighter the screws the more stable the mount is. Each of the pulleys have there own bearings inside them so no extra bearings needed. They are inserted then placed on with 2X m3.5 metric low porfile screws on oppsite ends.
+
+
+
+**Total time spent: 4 hours**
+# Both connectors and the rod #
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
+
+# Section of the Pulley inside the mount #
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195509.png)
+
+
+# Shows the lid for the pulley #
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/bfd17a0e5ceb090cce95cf1bde7335a29ba342d4/Images/Screenshot%202026-10-12%20201126.png)
