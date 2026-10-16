@@ -35,12 +35,12 @@ Spent 4 hours today working on the idle pulley mounts and guide rod mount. First
 
 
 **Total time spent: 4 hours**
-# Both connectors and the rod #
+ Both connectors and the rod 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
 
-# Section of the Pulley inside the mount #
+ Section of the Pulley inside the mount 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195509.png)
 
 
-# Shows the lid for the pulley #
+ Shows the lid for the pulley 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/bfd17a0e5ceb090cce95cf1bde7335a29ba342d4/Images/Screenshot%202026-10-12%20201126.png)
