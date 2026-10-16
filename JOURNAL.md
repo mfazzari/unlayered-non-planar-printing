@@ -44,3 +44,13 @@ Spent 4 hours today working on the idle pulley mounts and guide rod mount. First
 
  Shows the lid for the pulley 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/bfd17a0e5ceb090cce95cf1bde7335a29ba342d4/Images/Screenshot%202026-10-12%20201126.png)
+
+# October 13: Tried to attach a stepper motor to the driver pulley. #
+
+Spent 2 hours today working on getting the the motor to driver the pulley. I put the motor on the side because i expected it to be driven by a belt but realized the lack of space. To add the belt to driver the pulley to pulley, only at the end did I realize this thou :(.
+
+
+
+**Total time spent: 2 hours**
+ Both connectors and the rod 
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
