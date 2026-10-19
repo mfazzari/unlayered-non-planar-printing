@@ -54,3 +54,14 @@ Spent 2 hours today working on getting the the motor to driver the pulley. I put
 **Total time spent: 2 hours**
  Both connectors and the rod 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
+
+# October 14 - 15: Attached a stepper motor to the driver pulley. #
+
+Spent 3 hours today working on getting the stepper motor to directly turne the pulley worked. Used some screws to connect the connector to the main arm
+
+
+
+**Total time spent: 3 hours**
+ Both connectors and the rod 
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
+
