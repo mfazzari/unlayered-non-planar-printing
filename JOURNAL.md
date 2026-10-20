@@ -65,6 +65,17 @@ Spent 3 hours today working on getting the stepper motor to directly turne the p
  Both connectors and the rod 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
 
+# October 16: Created a component to holder the driver pulley and test with ways to hold the other side. #
+
+Spent 1 hours today working on adding screws for the pulley comment mount used four to connect it to the corner conector. Right just under where the stepper motor is so you will have to take the stepper off first. Tried experimenting with ways to add the other mounnt to the metal skeleton. Coulddn't firgure out a good idea yet thou.
+
+
+
+**Total time spent: 1 hours**
+ Both connectors and the rod 
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
+
+
 # October 17: Created a mount for the other side of the idle pulley to slide onto the extusion. #
 
 Spent 1.5 hours today working on getting the Mount to fit on the extrusion. Had some issues with wondering how to connect it, just used a nut and m3.5 screws to clamp it to the extrusions. The nut is held up with a 3d printed guide.
