@@ -73,7 +73,7 @@ Spent 1 hours today working on adding screws for the pulley comment mount used f
 
 **Total time spent: 1 hours**
  Both connectors and the rod 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/6ed93ad5dd48d43d18e76a82fc8106fa9ea35171/Images/Screenshot%202026-10-16%20162502.png)
 
 
 # October 17: Created a mount for the other side of the idle pulley to slide onto the extusion. #
