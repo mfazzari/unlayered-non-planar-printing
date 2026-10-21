@@ -85,7 +85,7 @@ Spent 1.5 hours today working on getting the Mount to fit on the extrusion. Had 
 
 **Total time spent: 1.5 hours**
 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/a60ce43aac2b67d41af6bc79f290c6ac2683680c/Images/Screenshot%202026-10-17%20224623.png)
 
 # October 21: Created a mount for the guide rod bearings. #
 
