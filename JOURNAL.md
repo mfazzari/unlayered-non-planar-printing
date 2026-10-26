@@ -9,7 +9,7 @@ Created_at: "2026-10-09"
 
 # October 9: Created the skeleton #
 
-Spent 10 minutes today working on the skeleton didn't have much other time to do anything else.
+Spent 10 minutes today working on the skeleton didn't have much other time to do anything else. Still think about how I am going to make the connectors thinking about a piece per corner, Most likely ABS filemnt then using screws and nut to clamps the nuts onto eaxh 2020 extrusion.
 
 
 
@@ -20,7 +20,7 @@ Spent 10 minutes today working on the skeleton didn't have much other time to do
 
 # October 10: Created the skeleton connectors #
 
-Spent 2 hours today working on the connectors to connect the 2020 extrusions to each other. I used m3.5 screws and a nut under the rail to clamp the connector to each extrsuion. Had some major setback with desin issues like not being able to combine some of the different bodies but I got it all settled in the end. Accidently also forgot to lapse part of it so there might be a weird moment missing.
+Spent 2 hours today working on the connectors to connect the 2020 extrusions to each other. I used m3.5 screws and a nut under the rail to clamp the connector to each extrsuion. Had some major setback with desin issues like not being able to combine some of the different bodies but I got it all settled in the end. Accidently also forgot to lapse part of it so there might be a weird moment missing, uhh now wondering about the pulleys, thinking about how big they should be prob like 20mm is fine, Right, Yahhhhh!!!
 
 
 
@@ -47,7 +47,7 @@ Spent 4 hours today working on the idle pulley mounts and guide rod mount. First
 
 # October 13: Tried to attach a stepper motor to the driver pulley. #
 
-Spent 2 hours today working on getting the the motor to driver the pulley. I put the motor on the side because i expected it to be driven by a belt but realized the lack of space. To add the belt to driver the pulley to pulley, only at the end did I realize this thou :(.
+Spent 2 hours today working on getting the the motor to driver the pulley. I put the motor on the side because i expected it to be driven by a belt but realized the lack of space. To add the belt to driver the pulley to pulley, only at the end did I realize this thou :(. Yah so forgorre that I could add a senced pulley under or abover the driver pulley to move it.
 
 
 
@@ -57,7 +57,7 @@ Spent 2 hours today working on getting the the motor to driver the pulley. I put
 
 # October 14 - 15: Attached a stepper motor to the driver pulley. #
 
-Spent 3 hours today working on getting the stepper motor to directly turne the pulley worked. Used some screws to connect the connector to the main arm
+Spent 3 hours today working on getting the stepper motor to directly turne the pulley worked. Used some screws to connect the connector to the main arm connecotrs.
 
 
 
