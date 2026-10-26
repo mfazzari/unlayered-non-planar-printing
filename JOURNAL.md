@@ -90,7 +90,7 @@ Spent 1.5 hours today working on getting the Mount to fit on the extrusion. Had 
 # October 21: Created a mount for the guide rod bearings. #
 
 Spent 34 mins today working on mounting the bearing to the guide rod. Also tried find a aliumium extrusion that would fit a rail holder couldn't find one. Thinking about just make the whole thign 3d printed so the rail just sits on a 3d printed parts, just don't know hwo I want to make it look.
- Both connectors and the rod 
+ Both connectors and the rod. Sorry if some of theses entries are not detailed enough starting to get the hang of git hub, and the habits of good images.
 
 **Total time spent: 1.5 hours**
 
