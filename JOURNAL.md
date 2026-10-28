@@ -101,6 +101,7 @@ Spent 34 mins today working on mounting the bearing to the guide rod. Also tried
 # October 27: Added holes to and split the x rail mount so it can clamp on the bearing #
 
 Spent 1.5 today working on Keeping the bearing for the y axis to clamp onto the x rail mount. Went with two screws for now on eahc side will propable add more just for scrength. The m3.5 scres clamp onto nuts locking the bearing with force and ininer circle slots. Did also add some constraints between the x rails and y rail. With some joints also :). Bad news found out that I somehow didn't allign the pulley from the driver and idle on the oppside so now I have to find a stepper motor with a bigger shaft most likely gonna go up from 19 cm to 24cm shaft. Ugggggaaaa so many promeblms!!!!!! Love how thr mount end, ended loooking up thouuuuuu.
+
 **Total time spent: 1.5 hours**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/dba81f112a1acb47ac3d42f05f0d661b9e120557/Images/Screenshot%202026-10-27%20201652.png)
