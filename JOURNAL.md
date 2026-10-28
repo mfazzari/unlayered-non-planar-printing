@@ -92,6 +92,16 @@ Spent 1.5 hours today working on getting the Mount to fit on the extrusion. Had 
 Spent 34 mins today working on mounting the bearing to the guide rod. Also tried find a aliumium extrusion that would fit a rail holder couldn't find one. Thinking about just make the whole thign 3d printed so the rail just sits on a 3d printed parts, just don't know hwo I want to make it look.
  Both connectors and the rod. Sorry if some of theses entries are not detailed enough starting to get the hang of git hub, and the habits of good images.
 
+**Total time spent: 34 mins**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
+
+
+
+# October 27: Added holes to and split the x rail mount so it can clamp on the bearing . #
+
+Spent 1.5 today working on Keeping the bearing for the y axis to clamp onto the x rail mount. Went with two screws for now on eahc side will propable add more just for scrength. The m3.5 scres clamp onto nuts locking the bearing with force and ininer circle slots. Did also add some constraints between the x rails and y rail. With some joints also :). Bad news found out that I somehow didn't allign the pulley from the driver and idle on the oppside so now I have to find a stepper motor with a bigger shaft most likely gonna go up from 19 cm to 24cm shaft. Ugggggaaaa so many promeblms!!!!!!
 **Total time spent: 1.5 hours**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/fc27b0a3d0274659a297894c7e68130e2ffde4d0/Images/Screenshot%202026-10-12%20195426.png)
+
