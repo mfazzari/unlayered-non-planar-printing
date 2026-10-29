@@ -106,3 +106,12 @@ Spent 1.5 today working on Keeping the bearing for the y axis to clamp onto the 
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/dba81f112a1acb47ac3d42f05f0d661b9e120557/Images/Screenshot%202026-10-27%20201652.png)
 
+# October 28: Fixed the non-aligned pulleys and started designing a pulley mount on the x axis #
+
+Spent 1.6 today on fixing the mis aligned pulleys and thinking of a good mount design. So the pulley promeblem very easy to to fix just moved the idle pulleys up 5.54 mm to alig. Thou the idle pulley mount for the x axus gave me a hard tim!!! Cause i was thinking How to make it look good not very practically. Them I ended up with this design porb gonna change it so the toolhead has more room to move, Like the ones on the p2s where the pulley mount is cut right where the pulley ends. Also this pulley is tootless and would be touching the back of the belt.
+
+**Total time spent: 1.6 hours**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/dba81f112a1acb47ac3d42f05f0d661b9e120557/Images/Screenshot%202026-10-27%20201652.png)
+
+
