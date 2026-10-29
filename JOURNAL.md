@@ -112,6 +112,6 @@ Spent 1.6 today on fixing the mis aligned pulleys and thinking of a good mount d
 
 **Total time spent: 1.6 hours**
 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/dba81f112a1acb47ac3d42f05f0d661b9e120557/Images/Screenshot%202026-10-27%20201652.png)
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
 
 
