@@ -114,4 +114,12 @@ Spent 1.6 today on fixing the mis aligned pulleys and thinking of a good mount d
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
 
+# October 30: Akost finish x axis pulley mount. #
+
+Spent 2.5 today on MAking the x axis mount. Gonna try to make it slide on the the rail mount then hopefully sccrew into the rail after wrd. Nothing to big happend today smooth sailing.
+
+**Total time spent: 2.5 hours**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
+
 
