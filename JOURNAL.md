@@ -120,6 +120,6 @@ Spent 2.5 today on MAking the x axis mount. Gonna try to make it slide on the th
 
 **Total time spent: 2.5 hours**
 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/5455a35d23d7ce66408a920e32b087a07c607c37/Images/Screenshot%202026-10-31%20123620.png)
 
 
