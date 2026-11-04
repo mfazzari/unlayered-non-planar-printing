@@ -123,7 +123,7 @@ Spent 2.5 today on MAking the x axis mount. Gonna try to make it slide on the th
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/5455a35d23d7ce66408a920e32b087a07c607c37/Images/Screenshot%202026-10-31%20123620.png)
 
 
-# November 1: Playing around with ways to attach the x axis pulley mount to the rail mount #
+# November 1: Playing around with how to attach the x axis pulley mount to the rail mount #
 
 Spent 45 minutes today playing around with ways to add the pulley mount to the x axis rail mount. Kept running into problems with the small parts, screws weren't good enough dimensions. And I had to make it clamp perfectly making sure it can wiggle.
 
