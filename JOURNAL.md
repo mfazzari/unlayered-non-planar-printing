@@ -123,3 +123,28 @@ Spent 2.5 today on MAking the x axis mount. Gonna try to make it slide on the th
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/5455a35d23d7ce66408a920e32b087a07c607c37/Images/Screenshot%202026-10-31%20123620.png)
 
 
+# November 1: Playing around with ways to attach the x axis pulley mount to the rail mount #
+
+Spent 45 minutes today playing around with ways to add the pulley mount to the x axis rail mount. Kept running into problems with the small parts, screws weren't good enough dimensions. And I had to make it clamp perfectly making sure it can wiggle.
+
+**Total time spent: 45 mins**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
+
+
+
+# November 2: Getting two nuts and screws to clamp oppositely to hold the pulley mount.  #
+
+Spent 1 hour today with implementing the idea i thought of at school to use two opisitee screws from either end. Each would clamp onto each other and would stop the pulley mounts from sliding or wiggling around on the mount. Ran into a few prombelms with getting them two close to the bearings and had to hide them under the pulley so in order to tighten them you have to take the pulley out kind of incovenit, I know but it works!!
+
+**Total time spent: 1 hour**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
+
+# November 3: Almost done the gantry!!!!! Just got to add the timing belts and the other stepper motor:) .  #
+
+Spent 3 hours today working on add the panel to hold the pulley on the other side, umm also duplicate the whole rigth side so now it looks complete. Still have to add joints and constrains thou. Had a lot of timline promebelms when ever i tried to change something in the past, which really delayed the making of this. Finally go it workign thou, also organized a little more removing the floating bodies and putting them in dedicated components.
+
+**Total time spent: 3 hours**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
