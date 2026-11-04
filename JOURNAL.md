@@ -129,7 +129,7 @@ Spent 45 minutes today playing around with ways to add the pulley mount to the x
 
 **Total time spent: 45 mins**
 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/a40baa76a267e5164666358a4b7e5d1c6002d447/Images/Screenshot%202026-11-01%20214248.png)
 
 
 
@@ -147,4 +147,4 @@ Spent 3 hours today working on add the panel to hold the pulley on the other sid
 
 **Total time spent: 3 hours**
 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/d84a5b9842a3cfb22cb2dfc50be47c50b846485e/Images/Screenshot%202026-10-28%20214349.png)
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/a40baa76a267e5164666358a4b7e5d1c6002d447/Images/Screenshot%202026-11-03%20212353.png)
