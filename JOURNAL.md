@@ -152,7 +152,7 @@ Spent 3 hours today working on add the panel to hold the pulley on the other sid
 
 # November 4: Organized some of the components and found problems in my design.  #
 
-Spent 1 hours today working on taking a break from cading and started to organize the componets and their bodies. Which really helped me look over the design and brought some prombelms into perspective. That I will be working on next session. Like how the other pulley mounts pulley isn't aligned correct so now I haev to fix that as well as some nut holes I forgot to add and missing screws I forgot to duplicate. I think this apporach really help me review the project as a whole and will most likely be doing it again.
+Spent 1 hours today working on taking a break from cading and started to organize the componets and their bodies. Which really helped me look over the design and brought some prombelms into perspective. That I will be working on next session. Like how the other pulley mounts pulley isn't aligned correct so now I haev to fix that as well as some nut holes I forgot to add and missing screws I forgot to duplicate. I think this approach really help me review the project as a whole and will most likely be doing it again. I am also thinking about updating the bom list just so I don't get overwhelmed at the end.
 
 **Total time spent: 1 hours**
 
