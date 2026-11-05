@@ -148,3 +148,12 @@ Spent 3 hours today working on add the panel to hold the pulley on the other sid
 **Total time spent: 3 hours**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/a40baa76a267e5164666358a4b7e5d1c6002d447/Images/Screenshot%202026-11-03%20212353.png)
+
+
+# November 4: Organized some of the components and found problems in my design.  #
+
+Spent 1 hours today working on taking a break from cading and started to organize the componets and their bodies. Which really helped me look over the design and brought some prombelms into perspective. That I will be working on next session. Like how the other pulley mounts pulley isn't aligned correct so now I haev to fix that as well as some nut holes I forgot to add and missing screws I forgot to duplicate. I think this apporach really help me review the project as a whole and will most likely be doing it again.
+
+**Total time spent: 1 hours**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/2ee93e44370395f72875ae363d1e1112822da9d4/Images/Screenshot%202026-11-04%20184107.png)
