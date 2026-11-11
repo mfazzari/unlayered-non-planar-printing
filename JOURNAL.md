@@ -154,14 +154,23 @@ Spent 3 hours today working on add the panel to hold the pulley on the other sid
 
 Spent 1 hours today working on taking a break from cading and started to organize the componets and their bodies. Which really helped me look over the design and brought some prombelms into perspective. That I will be working on next session. Like how the other pulley mounts pulley isn't aligned correct so now I haev to fix that as well as some nut holes I forgot to add and missing screws I forgot to duplicate. I think this approach really help me review the project as a whole and will most likely be doing it again. I am also thinking about updating the bom list just so I don't get overwhelmed at the end.
 
-**Total time spent: 1 hours**
+**Total time spent: 1 hour**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/2ee93e44370395f72875ae363d1e1112822da9d4/Images/Screenshot%202026-11-04%20184107.png)
 
 # November 9: Found a two big promeblms uhhhhhhh.  #
 
-So Just realized two major issues first not to bad but the pulley is off by a little bit becuase i didn't know how thick the belt is so prob gonna fix that next, otheerrrrr very big prombelm uhh, I kind of running out of ram. So the design in fusion when I run it takes like 8 gb of ram and I run it on my laptop with 16 gb so windows plus fusion equals my 16 gb limit. Now the computer has resorted to using the ssd as part time ram making it a lottt slower. I was thinking about fixing it but how. The ramm prices right now are like 500 dollars for another 16 gb sodimm. Still thinking of how to resolt this prombelms still. Uhhhhh
+So Just realized two major issues first not to bad but the pulley is off by a little bit becuase i didn't know how thick the belt is so prob gonna fix that next, otheerrrrr very big prombelm uhh, I kind of running out of ram. So the design in fusion when I run it takes like 8 gb of ram and I run it on my laptop with 16 gb so windows plus fusion equals my 16 gb limit. Now the computer has resorted to using the ssd as part time ram making it a lottt slower. I was thinking about fixing it but how. The ramm prices right now are like 500 dollars for another 16 gb sodimm. Still thinking of how to resolt this prombelms still. Uhhhhh Sorry I forgot to take a screenshot of the missaligned pulleys
 
-**Total time spent: 1 hours**
+**Total time spent: 1 hour**
 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/2ee93e44370395f72875ae363d1e1112822da9d4/Images/Screenshot%202026-11-04%20184107.png)
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/e6e017004e3a1f8a034b17313c1c96fc40b1efe0/Images/Screenshot%202026-11-10%20211238.png)
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/e6e017004e3a1f8a034b17313c1c96fc40b1efe0/Images/Screenshot%202026-11-10%20211300.png)
+
+# November 10: Started aligning the x rail pulley.  #
+
+Today to account for the 0.83 mm that I forgot to add inbetween the pulleys I started alturing the timline, short story short did not go very welll :(. The timline is very wonky. I think I got it to work though I just have to check that  everythings is working there seem to be a few promebelm that came from altering the timline so I am planning on doing it tommorow. If you look closely you can see that the attachemnt pulley mount now doesn't alligned pefreclty with the edge on the end of the rail mount anymore.
+**Total time spent: 1 hour**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/7c85bdf1a32e79b3d80c549698b2dbc9ac4dc86b/Images/Screenshot%202026-11-10%20211800.png)
