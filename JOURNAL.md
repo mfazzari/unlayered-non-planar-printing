@@ -174,3 +174,10 @@ Today to account for the 0.83 mm that I forgot to add inbetween the pulleys I st
 **Total time spent: 1 hour**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/7c85bdf1a32e79b3d80c549698b2dbc9ac4dc86b/Images/Screenshot%202026-11-10%20211800.png)
+
+# November 11: Finished aligning the x rail pulley.  #
+
+Spent 3 hours today working on aligning the very annoying pulleys. I hope I am finally done, I also decided to add aa pulley belt(Doesn't have individual grooves), just built it to help visually see where the belt would be and how it would kind of look like. Also add new appearances to parts, never actually used this feature before very new to me. Just help me see what is plastic and what is gonna be bought and is metal, also looks cleaner. The ram is still much a issue and I am still scared for the future. I had colour then forgot to save and add a screenshot went back and now it's gone ;(, if you look in the lapse you can see it though. Right now I also have a problem about how the motor is gonna fit and turn the pulley on the other side. Right now it is intruding  on the aluminum extrusions.
+**Total time spent: 3 hour**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/c6bdeb4298363fbfe0fc6290135b9a71af56a8b7/Images/Screenshot%202026-11-11%20205533.png)
