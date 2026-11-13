@@ -178,6 +178,14 @@ Today to account for the 0.83 mm that I forgot to add inbetween the pulleys I st
 # November 11: Finished aligning the x rail pulley.  #
 
 Spent 3 hours today working on aligning the very annoying pulleys. I hope I am finally done, I also decided to add aa pulley belt(Doesn't have individual grooves), just built it to help visually see where the belt would be and how it would kind of look like. Also add new appearances to parts, never actually used this feature before very new to me. Just help me see what is plastic and what is gonna be bought and is metal, also looks cleaner. The ram is still much a issue and I am still scared for the future. I had colour then forgot to save and add a screenshot went back and now it's gone ;(, if you look in the lapse you can see it though. Right now I also have a problem about how the motor is gonna fit and turn the pulley on the other side. Right now it is intruding  on the aluminum extrusions.
-**Total time spent: 3 hour**
+**Total time spent: 3 hours**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/c6bdeb4298363fbfe0fc6290135b9a71af56a8b7/Images/Screenshot%202026-11-11%20205533.png)
+
+# November 12: Started the other stepper motor mount.  #
+
+Spent 1 hour today working on attaching the stepper motor to the mount and think about the placement, of the pulley. Though this got me thinking about what steppers I am going to buy, because I need cheaper pnes then the MC Master step file place holders I am using right now just as a reference. I though a lot after the lapse and am still now at 10:00 still think about where to buy them. I hear that the voron two motors are nice and fast. Though the cost like 30 bucks each. So hear is the plan, I hope I will buy two of them for the x and y because I need a motor that is fast and has a 24mm shaft. Then I kind of also inspired about how the vorons two build plate design with 3 lead screws, I actually do have 3 stepper motors to use for that, three becuase it helps with auto bed leveling. Thought I could use them for the x and y becuase there shaft is to short and they are kind of slow, so wouldn't  matter too much if I add the with the lead screw.Ummmmm One more thing I have 4 of those tiny motor so I think the last one will go with the extruder. They have the normal nem 17 shape and stuff thou they are kind of the half the hight.
+**Total time spent: 1 hour**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/1ec99deaf877a930eb281917162aa774cc1651ae/Images/Screenshot%202026-11-12%20215444.png).
+
