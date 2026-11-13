@@ -182,10 +182,17 @@ Spent 3 hours today working on aligning the very annoying pulleys. I hope I am f
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/c6bdeb4298363fbfe0fc6290135b9a71af56a8b7/Images/Screenshot%202026-11-11%20205533.png)
 
-# November 12: Started the other stepper motor mount.  #
+## November 12, 2026: <Started the other stepper motor mount>
 
-Spent 1 hour today working on attaching the stepper motor to the mount and think about the placement, of the pulley. Though this got me thinking about what steppers I am going to buy, because I need cheaper pnes then the MC Master step file place holders I am using right now just as a reference. I though a lot after the lapse and am still now at 10:00 still think about where to buy them. I hear that the voron two motors are nice and fast. Though the cost like 30 bucks each. So hear is the plan, I hope I will buy two of them for the x and y because I need a motor that is fast and has a 24mm shaft. Then I kind of also inspired about how the vorons two build plate design with 3 lead screws, I actually do have 3 stepper motors to use for that, three becuase it helps with auto bed leveling. Thought I could use them for the x and y becuase there shaft is to short and they are kind of slow, so wouldn't  matter too much if I add the with the lead screw.Ummmmm One more thing I have 4 of those tiny motor so I think the last one will go with the extruder. They have the normal nem 17 shape and stuff thou they are kind of the half the hight.
+Spent 1 hour today working on attaching the stepper motor to the mount and think about the placement, of the pulley. Though this got me thinking about what steppers I am going to buy, because I need cheaper pnes then the MC Master step file place holders I am using right now just as a reference. I though a lot after the lapse and am still now at 10:00 still think about where to buy them. I hear that the voron two motors are nice and fast. Though the cost like 30 bucks each. So hear is the plan, I hope I will buy two of them for the x and y because I need a motor that is fast and has a 24mm shaft. Then I kind of also inspired about how the Vorons two build plate design with 3 lead screws, I actually do have 3 stepper motors to use for that, three becuase it helps with auto bed leveling. Thought I could use them for the x and y becuase there shaft is to short and they are kind of slow, so wouldn't  matter too much if I add the with the lead screw.Ummmmm One more thing I have 4 of those tiny motor so I think the last one will go with the extruder. They have the normal NEMA 17 design and stuff thou they are kind of the half the height, pron will work:)
 **Total time spent: 1 hour**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/1ec99deaf877a930eb281917162aa774cc1651ae/Images/Screenshot%202026-11-12%20215444.png).
 
+## June 8, 2026: <journal entry title!>
+
+<the actual journal content! what you did, some interesting findings, etc.>
+
+<at least 1 picture of where you're currently at! the more the better>
+
+**Total time spent: 2h**
