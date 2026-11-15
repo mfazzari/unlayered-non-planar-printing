@@ -189,4 +189,10 @@ Spent 1 hour today working on attaching the stepper motor to the mount and think
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/1ec99deaf877a930eb281917162aa774cc1651ae/Images/Screenshot%202026-11-12%20215444.png).
 
+# November 13, 2026: Midway through the other stepper motor mount #
+
+Spent 3 hours today working on how to get the pulley and shaft to connect to the top alimunium extruaions connector. First I thogh hey why not do what I did with the other one and chamber the bottom of it spilt the body and add some nuts and some screws to clamp it to the body. NOPPPE, I realized major setbacks first I could try to do that but because this one had to go down father it was mostly likely going to vibrate more if i didn't add some kind of support on the bottom. Also the chamber didn't not want to work at all so. Plan B not using nuts but instead heat inserts, nice for place unsutiable for nuts:). That was one promeblm the other was the major fear of virbation becauwse of the lack of support so at the end of the mount i add some nice slide rail that would nicely slide into the extrusion, thou this would mean it has to go in before the extrusions are all connected together, got to take a note of that. Still depatating if i Should add screws to let it clamps at the bottom but like what if the causes it the tilt a tiny bit, I don't knwo maybe I am just to paradiod about everything.
+**Total time spent: 3 hours**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/1ec99deaf877a930eb281917162aa774cc1651ae/Images/Screenshot%202026-11-12%20215444.png).
 
