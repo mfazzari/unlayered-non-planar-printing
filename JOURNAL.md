@@ -201,12 +201,12 @@ Spent 3 hours today working on how to get the pulley and shaft to connect to the
 Spent 3 hours and finally aligned all the belts, to a belt placeholder as a reference to make sure everything is perfect. Took little longer than I would have liked. dat it
 **Total time spent: 3 hours**
 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/1ec99deaf877a930eb281917162aa774cc1651ae/Images/Screenshot%202026-11-12%20215444.png).
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/main/Images/Screenshot%202026-11-14%20134050.png).
 
 # November 16, 2026: Midway through the other stepper motor mount #
 
 Spent 1 hour researching 3d printer nozzles and getting a rough idea of the kind I want. Also fixed a few mistake from previously moving all the belts and added a placeholder. So i Can can visually see how big I want the tool head to be
 **Total time spent: 1 hour**
 
-![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/1ec99deaf877a930eb281917162aa774cc1651ae/Images/Screenshot%202026-11-12%20215444.png).
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/635d51dfff3dd2e10028c5fa1e2218f1542a21d6/Images/Screenshot%202026-11-16%20151607.png).
 
