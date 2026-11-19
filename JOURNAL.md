@@ -210,3 +210,10 @@ Spent 1 hour researching 3d printer nozzles and getting a rough idea of the kind
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/635d51dfff3dd2e10028c5fa1e2218f1542a21d6/Images/Screenshot%202026-11-16%20151607.png).
 
+# November 18, 2026: Figuring out the compoents for the bed. #
+
+Spent 1 hour researching 3d printer nozzles and getting a rough idea of the kind I want. Also fixed a few mistake from previously moving all the belts and added a placeholder. So i Can can visually see how big I want the tool head to be
+**Total time spent: 1 hour**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/635d51dfff3dd2e10028c5fa1e2218f1542a21d6/Images/Screenshot%202026-11-16%20151607.png).
+
