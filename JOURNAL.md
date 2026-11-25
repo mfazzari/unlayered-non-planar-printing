@@ -217,3 +217,7 @@ Spent 1 hour researching 3d printer nozzles and getting a rough idea of the kind
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/635d51dfff3dd2e10028c5fa1e2218f1542a21d6/Images/Screenshot%202026-11-16%20151607.png).
 
+# November 24, 2026: Made screw hole to hold thr bed together. #
+
+Spent 3 hours working on adding screw hole yo hold up thr bed mount
+**Total time spent: 3 hours**
