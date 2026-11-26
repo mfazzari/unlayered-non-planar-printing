@@ -210,19 +210,33 @@ Spent 1 hour researching 3d printer nozzles and getting a rough idea of the kind
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/635d51dfff3dd2e10028c5fa1e2218f1542a21d6/Images/Screenshot%202026-11-16%20151607.png).
 
-# November 18, 2026: Figuring out the compoents for the bed. #
+# November 17, 2026: Figuring out the compoents for the bed. #
 
 Spent 1 hour researching 3d printer nozzles and getting a rough idea of the kind I want. Also fixed a few mistake from previously moving all the belts and added a placeholder. So i Can can visually see how big I want the tool head to be
 **Total time spent: 1 hour**
 
 ![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/635d51dfff3dd2e10028c5fa1e2218f1542a21d6/Images/Screenshot%202026-11-16%20151607.png).
 
-# November 21, 2026:
+# November 19, 2026: Figuring out the compoents for the bed. #
+
+Spent 1 hour researching 3d printer nozzles and getting a rough idea of the kind I want. Also fixed a few mistake from previously moving all the belts and added a placeholder. So i Can can visually see how big I want the tool head to be
+**Total time spent: 1 hour**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/635d51dfff3dd2e10028c5fa1e2218f1542a21d6/Images/Screenshot%202026-11-16%20151607.png).
+
+
+# November 21, 2026: Figuring out the compoents for the bed. #
+
+Spent 1 hour researching 3d printer nozzles and getting a rough idea of the kind I want. Also fixed a few mistake from previously moving all the belts and added a placeholder. So I Can can visually see how big I want the tool head to be
+**Total time spent: 1 hour**
+
+![image alt](https://github.com/mfazzari/unlayered-non-planar-printing/blob/635d51dfff3dd2e10028c5fa1e2218f1542a21d6/Images/Screenshot%202026-11-16%20151607.png).
 
 # November 24, 2026: Made screw hole to hold thr bed together. #
 
 Spent 3 hours working on adding screw hole yo hold up thr bed mount
 **Total time spent: 3 hours**
 
-# November 25, 2026: started working on the sidr clamps to hold the uxcell bearing ehihc i apso cadef this ession. looked on amazon though and found four for 12 bucks so probably going to buy 4 of them and thrn uee two on the bed and two on thr toolhwad rail mount. though i am gonna jave to change the dimesnions pf thr one already in the toolhead mount. also started realzing some major promenlm that i might of accidently left out. so the parts tgat i use as like refreenscds from mc matster are noy likr genric oarts i can juts biy anywhere and they are rally expebsive at mc matwrs so also gonna need to fhange some componets. also dont knoe why butbi used a lot of low profilr screws ehich also cost a ton ane they all sre differnt sizes so i will prombanly have to seitch thrm to mor egeneric and cheaper parts
-**Total time spent: 1.5hours**
+# November 25, 2026: Started working on the side clamps to hold the Uxcell bearing while also cading the step file for reference#
+Looked on amazon though and found four for 12 bucks so probably going to buy 4 of them and thrn uee two on the bed and two on thr toolhwad rail mount. though i am gonna jave to change the dimesnions pf thr one already in the toolhead mount. Also started realzing some major promenlm that I might of accidently left out. so the parts tgat i use as like refreenscds from mc matster are noy like genric parts I can juts biy anywhere and they are rally expebsive at mc matwrs so also gonna need to fhange some componets. also don't know why but I used a lot of low profilr screws ehich also cost a ton ane they all sre differnt sizes so i will prombanly have to seitch thrm to mor egeneric and cheaper parts
+**Total time spent: 1.5 hours**
